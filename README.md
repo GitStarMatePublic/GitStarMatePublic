@@ -1,75 +1,90 @@
 # GithubStarMate
 
+[**English**](./README.md) · [简体中文](./README_ZH.md)
+
 <p align="center">
   <img src="https://githubstarmate.com/assets/logo-with-text.svg" alt="GithubStarMate" width="320" />
 </p>
 
 <p align="center">
-  GitHub repository promotion and star exchange platform for developers who want more visibility, more signals, and better discovery.
+  A GitHub repository promotion and interaction platform that helps great projects gain more visibility, genuine engagement, and growth opportunities.
 </p>
 
 <p align="center">
-  <a href="https://githubstarmate.com">Live Demo</a>
+  <a href="https://www.githubstarmate.com/">Visit GithubStarMate</a>
   ·
-  <a href="#what-it-does">What it does</a>
+  <a href="#-claim-5-promotion-credits">Claim promotion credits</a>
   ·
   <a href="#features">Features</a>
-  ·
-  <a href="https://www.githubstarmate.com/?utm_source=github">Getting started</a>
 </p>
 
 ---
 
-## What it does
+## 🎁 Claim 5 promotion credits
 
-GithubStarMate is a GitHub growth and promotion platform built around real repository exposure workflows:
+After registering at [GithubStarMate](https://www.githubstarmate.com/), submit an Issue in this GitHub repository and provide your **registered GithubStarMate account**.
 
-- GitHub stars / watch / fork interaction
-- Repository promotion and discovery
-- Star exchange and mutual growth flows
-- Star history and growth tracking
-- Fake star detection and risk awareness
+Once your account has been confirmed, you will receive **5 promotion credits**.
 
-If you are searching for:
+### How to claim
 
-- `buy github stars`
-- `free github stars`
-- `github star exchange`
-- `github repository promotion`
-- `how to get github stars`
+1. Register an account at [GithubStarMate](https://www.githubstarmate.com/).
+2. Return to this GitHub repository.
+3. [Submit an Issue using the promotion-credit template](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits.yml).
+4. Enter your registered GithubStarMate account in the Issue.
+5. After confirmation, we will add 5 promotion credits to that account.
 
-GithubStarMate is designed to cover those discovery intents with a single product surface.
+> You must submit an Issue in this repository to claim the promotion credits.  
+> Each GithubStarMate account may claim this reward only once.  
+> Never include your password, access token, or other sensitive information in an Issue.
 
-## Why this project exists
+---
 
-New repositories often struggle with two problems:
+## What is GithubStarMate?
 
-- low initial visibility
-- weak social proof in search and discovery
+GithubStarMate is a GitHub growth and promotion platform built around real repository exposure and interaction workflows:
 
-GithubStarMate helps teams and indie developers build early traction signals without forcing them to maintain scattered tools or disconnected workflows.
+- GitHub Star, Watch, and Fork interactions;
+- Repository promotion and discovery;
+- Mutual matching and interaction tracking;
+- Star history and growth tracking.
+
+If you are looking for:
+
+- Free GitHub Stars;
+- GitHub Star exchange;
+- GitHub repository promotion;
+- Ways to increase your project's visibility;
+- GitHub Star history tracking;
+
+GithubStarMate brings these workflows together in one convenient platform.
+
+## Why GithubStarMate exists
+
+New GitHub repositories often face two challenges:
+
+- Low initial visibility;
+- Weak social proof in search and project discovery.
+
+GithubStarMate helps teams and independent developers gain early exposure and engagement without maintaining scattered promotion tools or disconnected workflows.
 
 ## Features
 
 - 🔐 Authentication and account management
-- ⭐ GitHub Star / Watch / Fork workflows
+- ⭐ GitHub Star, Watch, and Fork workflows
 - 🔄 Mutual matching and interaction tracking
-- 📈 Repository growth and star history visualization
-- 🧪 Fake star detector
+- 📈 Repository growth and Star history visualization
 - 🌍 Multi-language support
-- 🧭 SEO landing pages for high-intent GitHub growth queries
-- 📊 Admin and backoffice tools for operations
+- 🧭 Content pages for GitHub project growth needs
+- 📊 Admin and back-office tools for operations
 
 ## Best for
 
-- SaaS teams launching new repositories
-- Indie hackers building distribution around GitHub
-- Open source projects that need more exposure
-- Marketing teams that want GitHub-based acquisition pages
+- SaaS teams launching new projects;
+- Independent developers promoting GitHub repositories;
+- Open-source projects that need more exposure;
+- Marketing and growth teams acquiring users through GitHub.
 
-## Live site
+---
 
-- Main site: [https://githubstarmate.com](https://githubstarmate.com)
-- GitHub profile pages: `https://githubstarmate.com/u/{githubUsername}`
-- Star history tool: `https://githubstarmate.com/stars-history`
-- Fake star detector: `https://githubstarmate.com/tools/fake-star-detector`
+If GithubStarMate helps you, please give this repository a ⭐ Star!
