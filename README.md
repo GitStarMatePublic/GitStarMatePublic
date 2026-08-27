@@ -22,21 +22,22 @@
 
 ## 🎁 Claim 5 promotion credits
 
-After registering at [GithubStarMate](https://www.githubstarmate.com/), submit an Issue in this GitHub repository and provide your **registered GithubStarMate account**.
+After registering at [GithubStarMate](https://www.githubstarmate.com/), copy the **Account ID** shown on your GithubStarMate account page, then submit an Issue in this GitHub repository.
 
 Once your account has been confirmed, you will receive **5 promotion credits**.
 
 ### How to claim
 
 1. Register an account at [GithubStarMate](https://www.githubstarmate.com/).
-2. Return to this GitHub repository.
-3. [Submit an Issue using the promotion-credit template](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits.yml).
-4. Enter your registered GithubStarMate account in the Issue.
-5. After confirmation, we will add 5 promotion credits to that account.
+2. Copy the Account ID shown on your GithubStarMate account page.
+3. Return to this GitHub repository.
+4. [Submit an Issue using the promotion-credit template](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits.yml).
+5. Enter your GithubStarMate Account ID in the Issue.
+6. After confirmation, we will add 5 promotion credits to that account.
 
 > You must submit an Issue in this repository to claim the promotion credits.  
 > Each GithubStarMate account may claim this reward only once.  
-> Never include your password, access token, or other sensitive information in an Issue.
+> Never include your password, access token, email address, or other sensitive information in an Issue.
 
 ---
 
