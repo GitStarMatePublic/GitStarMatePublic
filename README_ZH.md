@@ -18,7 +18,7 @@ GithubStarMate 是一个面向开发者的 GitHub 项目推广与互动平台，
 
 1. 前往 [GithubStarMate](https://www.githubstarmate.com/) 注册账号；
 2. 回到当前 GitHub 仓库；
-3. 使用指定模板[提交一个 Issue](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits.yml)；
+3. 使用指定模板[提交一个 Issue](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits-zh.yml)；
 4. 在 Issue 中填写你的 GithubStarMate 注册账号；
 5. 账号确认后，我们会向该账号发放 5 个推广积分。
 
