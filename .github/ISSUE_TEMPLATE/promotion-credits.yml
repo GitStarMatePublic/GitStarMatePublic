@@ -1,5 +1,5 @@
 name: "Claim 5 Promotion Credits"
-description: "Submit your registered GithubStarMate account to claim the one-time reward"
+description: "Submit your GithubStarMate Account ID to claim the one-time reward"
 title: "[Promotion Credits] "
 body:
   - type: markdown
@@ -7,27 +7,18 @@ body:
       value: |
         ## Claim 5 promotion credits
 
-        Register at [GithubStarMate](https://www.githubstarmate.com/) first, then complete this form. After your account is confirmed, you will receive 5 promotion credits.
+        Register at [GithubStarMate](https://www.githubstarmate.com/) first. Copy the Account ID shown on your GithubStarMate account page, then complete this form. After your account is confirmed, you will receive 5 promotion credits.
 
-        > Each account may claim this reward only once. Never include your password, access token, or other sensitive information.
+        > Each account may claim this reward only once. Never include your password, access token, email address, or other sensitive information.
 
   - type: input
-    id: githubstarmate-account
+    id: githubstarmate-account-id
     attributes:
-      label: "GithubStarMate registered account"
-      description: "Enter the account identifier you registered with"
-      placeholder: "Your GithubStarMate account"
+      label: "GithubStarMate Account ID"
+      description: "Copy the Account ID shown on your GithubStarMate account page"
+      placeholder: "Your GithubStarMate Account ID"
     validations:
       required: true
-
-  - type: input
-    id: repository
-    attributes:
-      label: "Repository to promote (optional)"
-      description: "Paste the full GitHub repository URL"
-      placeholder: "https://github.com/username/repository"
-    validations:
-      required: false
 
   - type: checkboxes
     id: eligibility
