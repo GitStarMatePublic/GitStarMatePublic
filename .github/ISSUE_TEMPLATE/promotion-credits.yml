@@ -1,34 +1,30 @@
-name: "Claim 5 Promotion Credits / 领取 5 个推广积分"
-description: "Submit your registered GithubStarMate account to claim the one-time reward / 提交注册账号领取一次性奖励"
-title: "[Promotion Credits / 推广积分] "
+name: "Claim 5 Promotion Credits"
+description: "Submit your registered GithubStarMate account to claim the one-time reward"
+title: "[Promotion Credits] "
 body:
   - type: markdown
     attributes:
       value: |
-        ## Claim 5 promotion credits / 领取 5 个推广积分
+        ## Claim 5 promotion credits
 
         Register at [GithubStarMate](https://www.githubstarmate.com/) first, then complete this form. After your account is confirmed, you will receive 5 promotion credits.
 
-        请先在 [GithubStarMate](https://www.githubstarmate.com/) 注册账号，然后填写此表单。账号确认后，你将获得 5 个推广积分。
-
         > Each account may claim this reward only once. Never include your password, access token, or other sensitive information.
-        >
-        > 每个账号仅限领取一次。请勿填写密码、访问令牌或其他敏感信息。
 
   - type: input
     id: githubstarmate-account
     attributes:
-      label: "GithubStarMate registered account / GithubStarMate 注册账号"
-      description: "Enter the account identifier you registered with / 请填写你注册时使用的账号标识"
-      placeholder: "Your GithubStarMate account / 你的 GithubStarMate 账号"
+      label: "GithubStarMate registered account"
+      description: "Enter the account identifier you registered with"
+      placeholder: "Your GithubStarMate account"
     validations:
       required: true
 
   - type: input
     id: repository
     attributes:
-      label: "Repository to promote (optional) / 希望推广的仓库（可选）"
-      description: "Paste the full GitHub repository URL / 请粘贴完整的 GitHub 仓库链接"
+      label: "Repository to promote (optional)"
+      description: "Paste the full GitHub repository URL"
       placeholder: "https://github.com/username/repository"
     validations:
       required: false
@@ -36,9 +32,9 @@ body:
   - type: checkboxes
     id: eligibility
     attributes:
-      label: "Eligibility confirmation / 领取资格确认"
+      label: "Eligibility confirmation"
       options:
-        - label: "I have registered at GithubStarMate. / 我已在 GithubStarMate 注册账号。"
+        - label: "I have registered at GithubStarMate."
           required: true
-        - label: "This account has not claimed the 5 promotion credits before. / 此账号此前未领取过这 5 个推广积分。"
+        - label: "This account has not claimed the 5 promotion credits before."
           required: true
