@@ -10,21 +10,22 @@ GithubStarMate 是一个面向开发者的 GitHub 项目推广与互动平台，
 
 ## 🎁 领取 5 个推广积分
 
-在 [GithubStarMate](https://www.githubstarmate.com/) 注册账号后，请在当前 GitHub 仓库提交一个 Issue，并留下你的 **GithubStarMate 注册账号**。
+在 [GithubStarMate](https://www.githubstarmate.com/) 注册账号后，请从你的 GithubStarMate 账户页面复制 **Account ID**，然后在当前 GitHub 仓库提交一个 Issue。
 
-完成以上步骤并通过确认后，你将获得 **5 个推广积分**。
+账号确认后，你将获得 **5 个推广积分**。
 
 ### 如何领取
 
 1. 前往 [GithubStarMate](https://www.githubstarmate.com/) 注册账号；
-2. 回到当前 GitHub 仓库；
-3. 使用指定模板[提交一个 Issue](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits-zh.yml)；
-4. 在 Issue 中填写你的 GithubStarMate 注册账号；
-5. 账号确认后，我们会向该账号发放 5 个推广积分。
+2. 从你的 GithubStarMate 账户页面复制 Account ID；
+3. 回到当前 GitHub 仓库；
+4. 使用指定模板[提交一个 Issue](https://github.com/GitStarMatePublic/GitStarMatePublic/issues/new?template=promotion-credits-zh.yml)；
+5. 在 Issue 中填写你的 GithubStarMate Account ID；
+6. 账号确认后，我们会向该账号发放 5 个推广积分。
 
 > 只有在当前仓库提交 Issue 后，才能领取推广积分。  
 > 每个 GithubStarMate 账号仅限领取一次。  
-> 请勿在 Issue 中填写密码、访问令牌（Token）或其他敏感信息。
+> 请勿在 Issue 中填写密码、访问令牌、邮箱地址或其他敏感信息。
 
 ---
 
