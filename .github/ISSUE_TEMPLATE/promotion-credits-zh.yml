@@ -1,5 +1,5 @@
 name: "领取 5 个推广积分"
-description: "提交 GithubStarMate 注册账号，领取一次性推广积分奖励"
+description: "提交 GithubStarMate Account ID，领取一次性推广积分奖励"
 title: "[推广积分] "
 body:
   - type: markdown
@@ -7,27 +7,18 @@ body:
       value: |
         ## 领取 5 个推广积分
 
-        请先在 [GithubStarMate](https://www.githubstarmate.com/) 注册账号，然后填写此表单。账号确认后，你将获得 5 个推广积分。
+        请先在 [GithubStarMate](https://www.githubstarmate.com/) 注册账号。从你的 GithubStarMate 账户页面复制 Account ID，然后填写此表单。账号确认后，你将获得 5 个推广积分。
 
-        > 每个账号仅限领取一次。请勿填写密码、访问令牌或其他敏感信息。
+        > 每个账号仅限领取一次。请勿填写密码、访问令牌、邮箱地址或其他敏感信息。
 
   - type: input
-    id: githubstarmate-account
+    id: githubstarmate-account-id
     attributes:
-      label: "GithubStarMate 注册账号"
-      description: "请填写你注册时使用的账号标识"
-      placeholder: "你的 GithubStarMate 账号"
+      label: "GithubStarMate Account ID"
+      description: "请从你的 GithubStarMate 账户页面复制 Account ID"
+      placeholder: "你的 GithubStarMate Account ID"
     validations:
       required: true
-
-  - type: input
-    id: repository
-    attributes:
-      label: "希望推广的仓库（可选）"
-      description: "请粘贴完整的 GitHub 仓库链接"
-      placeholder: "https://github.com/username/repository"
-    validations:
-      required: false
 
   - type: checkboxes
     id: eligibility
